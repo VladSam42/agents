@@ -1,5 +1,11 @@
 # livekit-agents
 
+## 0.12.18
+
+### Patch Changes
+
+- Remove unnecessary version pins - [#1682](https://github.com/livekit/agents/pull/1682) ([@hauntsaninja](https://github.com/hauntsaninja))
+
 ## 0.12.17
 
 ### Patch Changes
